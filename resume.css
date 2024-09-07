@@ -1,0 +1,29 @@
+#one{
+    background-color: greenyellow;
+    text-align: center;
+
+}
+.two{
+    background-color: lightsalmon;
+    text-align: center;
+}
+#three{
+    background-color: aqua;
+    text-align: center;
+    text-decoration: none;
+}
+.none{
+    color: blue;
+}
+.nonee{
+    color: blue;
+}
+.four{
+    background-color: yellowgreen;
+    color: aliceblue;
+    text-align: center;
+}
+.five{
+    background-color: lightcoral;
+    text-align: center;
+}
